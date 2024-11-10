@@ -27,8 +27,8 @@ You can find some of my favorite projects pinned below!
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/steven-glass-6b9444287)
-- **Email**: [Your Email](StevenGlass365@gmail.com)
+- **LinkedIn**: [Steven Glass](www.linkedin.com/in/steven-glass-6b9444287)
+- **Email**: [StevenGlass365@gmail.com](StevenGlass365@gmail.com)
 
 ---
 
