@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hi There, I'm Steven Glass!
 
 I'm a third-year Data Science student at Stellenbosch University, focusing on **Statistical Physics** and **Data Science** applications. My academic journey has led me to explore the fascinating intersection between **statistics**, **data science**, and **physics**. I enjoy coding in **Python** and **C** and have a passion for tackling challenging projects that bring these fields together.
 
