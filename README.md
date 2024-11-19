@@ -25,13 +25,6 @@ You can find some of my favorite projects pinned below!
 
 ---
 
-## 📫 Connect with Me
-
-- **LinkedIn**: [Steven Glass](www.linkedin.com/in/steven-glass-6b9444287)
-- **Email**: [StevenGlass365@gmail.com](StevenGlass365@gmail.com)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Programming Languages**: Python, C
