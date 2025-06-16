@@ -1,12 +1,12 @@
 # 👋 Hi There, I'm Steven Glass!
 
-I'm a third-year Data Science student at Stellenbosch University, focusing on **Statistical Physics** and **Data Science** applications. My academic journey has led me to explore the fascinating intersection between **statistics**, **data science**, and **physics**. I enjoy coding in **Python** and **C** and have a passion for tackling challenging projects that bring these fields together.
+I'm an Honours-year Data Science student at Stellenbosch University, focusing on **Statistical Physics** and **Data Science** applications. My academic journey has led me to explore the fascinating intersection between **statistics**, **data science**, and **physics**. I enjoy coding in **Python** and **C** and have a passion for tackling challenging projects that bring these fields together.
 
 ---
 
 ## 🌟 About Me
 
-- **🎓 Education**: Currently pursuing a BSc in Data Science at Stellenbosch University
+- **🎓 Education**: Currently pursuing an Honours in Data Science at Stellenbosch University
 - **🔬 Focal Area**: Statistical Physics and its applications within Data Science
 - **🛠️ Languages**: Proficient in **Python**, **R** and **C**
 - **💡 Interests**: Building tools and models that integrate data science with physics principles
@@ -36,7 +36,8 @@ You can find some of my favorite projects pinned below!
 
 ## 🌱 What I’m currently working on
 
-I’m currently diving deeper into simulations for **Ising models** and building models that capture **complex spin dynamics** in physical systems. I am also working on improving my knowledge of **machine learning techniques** and **neural networks** to apply them in the context of statistical mechanics.
+- I’m currently diving deeper into simulations for **Ising models** and building models that capture **complex spin dynamics** in physical systems. I am also working on improving my knowledge of **machine learning techniques** and **neural networks** to apply them in the context of statistical mechanics.
+- Additionally, for my Honours Project, I am currently pursuing the deployment of advanced statistical methods for improving the accuracy of Quantum State Tomography.
 
 ---
 
